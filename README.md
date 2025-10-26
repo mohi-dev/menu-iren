@@ -68,4 +68,4 @@ This app was developed in 2022
 
 The link to this app is below
 
-<a href="http://www.menu-iren-cafearabi.ir/"></a>
+http://www.menu-iren-cafearabi.ir/
